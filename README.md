@@ -1,6 +1,7 @@
 # IBM-Skillbuild-Project
 This project uses IBM Watsonx.ai to build a machine learning model that detects and classifies power system faults. The deployed Random Forest Classifier predicts specific fault types to enable rapid identification, aiming to improve overall grid stability and reliability.
-Power System Fault Detection and Classification using Machine Learning
+
+# Power System Fault Detection and Classification using Machine Learning
 This project demonstrates the use of machine learning, specifically through IBM's cloud services, to automatically detect and classify various types of faults in a power distribution system. The goal is to create a reliable system that can quickly identify faults, helping to improve the stability and reliability of the power grid.
 
 📋 Table of Contents
