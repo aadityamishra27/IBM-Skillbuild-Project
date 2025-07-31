@@ -72,6 +72,8 @@ Functionality: The deployed model (Fault_dp2) provides an interface where a user
 
 Output: Upon receiving input, the model returns a prediction for the specific Fault Type (e.g., "Transformer Failure", "Overheating", "Line Breakage") along with a confidence score for that prediction. This provides an immediate and actionable diagnosis of the system's health.
 <img width="1920" height="980" alt="R3" src="https://github.com/user-attachments/assets/c685bb18-66a4-4085-ac6e-22770efc4063" />
+
+
 <img width="1920" height="1028" alt="R4" src="https://github.com/user-attachments/assets/79624643-f438-48a4-b3c6-550a5eb5738b" />
 
 
